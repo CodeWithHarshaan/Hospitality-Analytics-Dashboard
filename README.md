@@ -52,13 +52,13 @@ It also allows users to filter and analyze data based on:
 - Power BI Desktop
 - DAX (Data Analysis Expressions)
 - Power Query Editor
-- Data Modeling with relationships and calculated columns
+- Data Modelling with relationships and calculated columns
 
 ## How to Use
 
 1. Open the `.pbix` file using Power BI Desktop.
-2. Use the filters at the top of the dashboard to select the city, room class, or category you want to analyze.
-3. Review the summary metrics and trend visualizations.
+2. Use the filters at the top of the dashboard to select the city, room class, or category you want to analyse.
+3. Review the summary metrics and trend visualisations.
 4. Explore the booking platform breakdown and compare individual property performance.
 5. Use the insights for decision-making, operational improvements, or stakeholder reporting.
 
@@ -67,5 +67,4 @@ It also allows users to filter and analyze data based on:
 This project simulates a real-world hotel analytics scenario where business users need to evaluate operational efficiency, optimize pricing strategies, and improve customer satisfaction based on actual performance data.
 
 
-> Replace `screenshot.png` with the actual filename of the image you uploaded to your repo (make sure it’s in the same folder as the README file).
 
